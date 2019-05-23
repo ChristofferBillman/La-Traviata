@@ -1,0 +1,35 @@
+.navbar {
+    height: 60px;
+    background-color: black;
+}
+a {
+    color: white;
+    transition-duration: 100ms;
+    padding: 20px;
+}
+a:hover {
+    color: navajowhite;
+    text-decoration: none;
+    transition-duration: 100ms;
+}
+.logoPlaceholder {
+    margin: 20px;
+    height: 200px;
+    background-color: aqua;
+}
+.containerStyling {
+    border-style: solid;
+    border-width:1px;
+    border-color:lightgray;
+    border-radius:3px;
+    padding: 10px;
+    background: white;
+    /*max-width: 700px; */
+}
+input {
+    margin: 5px;
+}
+.logo {
+    position: relative;
+    top: 3px;
+}
